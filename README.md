@@ -4,7 +4,7 @@
     <td>
 
 # Canine Care
-> Sistema de gestión para clínica veterinaria ≽(•⩊ •マ≼.
+> Expertos en lo que más quieres ≽(•⩊ •マ≼.
 ## Descripción
 Plataforma de gestion optimizada, nuestra interfaz está construida para transmitir confianza y estetica, somos presentacion y estetica con todas las herramientas para ayudar a tu mascota.
 </td> </tr> </table>
